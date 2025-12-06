@@ -1,2 +1,2 @@
 # Python_Ejercicios
-Ejercicios realizados en Python
+Ejercicios realizados del curso de Python, conociendo la sintaxis y viendo posibilidades.
